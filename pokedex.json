@@ -1,0 +1,20 @@
+{
+  "pidgey": {
+    "id": 16,
+    "name": "pidgey",
+    "base_experience": 50,
+    "height": 3,
+    "weight": 18,
+    "is_default": true,
+    "order": 21
+  },
+  "pikachu": {
+    "id": 25,
+    "name": "pikachu",
+    "base_experience": 112,
+    "height": 4,
+    "weight": 60,
+    "is_default": true,
+    "order": 35
+  }
+}
